@@ -1,0 +1,15 @@
+age,income,student,credit,buy
+<=30,high,0,fair,0
+<=30,high,0,excellent,0
+31...41,high,0,fair,1
+<40,medium,0,fair,1
+<40,low,1,fair,1
+<40,low,1,excellent,0
+31...41,low,1,excellent,1
+<=30,medium,0,fair,0
+<=30,low,1,fair,1
+<40,medium,1,fair,1
+<=30,medium,1,excellent,1
+31...41,medium,0,excellent,1
+31...41,high,1,fair,1
+<40,medium,0,excellent,0
